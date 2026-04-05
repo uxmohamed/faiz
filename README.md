@@ -1,6 +1,6 @@
 # Faiz — Arabic UX Copy Writer
 
-An agent skill that writes Arabic UI copy for the Thmanyah (ثمانية) sports streaming platform.
+An agent skill that writes Arabic UI copy for the Thmanyah (ثمانية) streaming platform.
 
 ## What it does
 
@@ -22,8 +22,8 @@ git clone https://github.com/uxmohamed/faiz.git .cursor/skills/faiz
 
 ## Usage
 
-Ask Cursor to write Arabic UI copy and the skill activates automatically. Examples:
+Ask your AI agent to write Arabic UI copy, and the skill activates automatically. Examples:
 
-- "Write an error message for a failed payment"
+- "Write an error message for a failed payment."
 - "What should the loading state say while processing the subscription?"
-- "Write the confirmation dialog for deleting a card"
+- "Write the confirmation dialog for deleting a card."
