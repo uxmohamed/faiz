@@ -1,6 +1,6 @@
 # Faiz — Arabic UX Copy Writer
 
-A Cursor agent skill that writes Arabic UI copy for the Thmanyah (ثمانية) sports streaming platform.
+An agent skill that writes Arabic UI copy for the Thmanyah (ثمانية) sports streaming platform.
 
 ## What it does
 
